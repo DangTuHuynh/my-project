@@ -6,7 +6,7 @@ var my0bject = {
 }
 let a = 5;
 
-if (a=5){
+if (a==5){
     prompt('myName');
-    comfirm(my0bject.name);
+    confirm(my0bject.name);
 }
