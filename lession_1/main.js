@@ -1,8 +1,12 @@
 
-function main(){
-    console.log("Hello World")
+var my0bject = {
+    name: 'Dang Tu',
+    age: 19,
+    adress: 'Ha Noi',
 }
+let a = 5;
 
-for (let i=0; i<10; i++ ){
-    main()
-} 
+if (a=5){
+    prompt('myName');
+    comfirm(my0bject.name);
+}
