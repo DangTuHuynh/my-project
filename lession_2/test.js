@@ -1,14 +1,4 @@
 
-var class = {
-    name: "class",
-    teacher: "teacher",
-    student: var student = [
-        studen1 = "peter",
-        student2 = "john",
-        student3 = "jackson",
-    ]
-}
+var myString="Dang tu"
 
-for (var i = 0; i < class.student.length; i++) {
-    console.log(class.student[i])
-}
+console.log(typeof myString[10])

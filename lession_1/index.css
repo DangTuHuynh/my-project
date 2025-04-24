@@ -1,0 +1,11 @@
+body{
+    font-family:sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.lighter {
+    font-weight: lighter;
+}
